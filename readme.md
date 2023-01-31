@@ -1,4 +1,4 @@
-# 1Password to Pass Unix Password Manager
+# 1Password 8 to Pass Unix Password Manager
 
 ## Introduction
 
